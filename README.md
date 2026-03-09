@@ -1,6 +1,6 @@
 # KatjaB
 # 💫 About Me:
-👨‍💻 Junior-Web-Developer<br>⚙️ Sysadmin · ☁️ Cloud · 🚀 DevOps<br>🛠️ Tech Stack: Python ·🐧 Linux · ☁️ AWS · 🟦 Azure · 🐳 Docker · ☸️ Kubernetes<br>🎓 Zertifizierung: Cloud Business Expert (IHK, April 2026)
+👨‍💻 Junior-Web-Developer<br>⚙️ Sysadmin · ☁️ Cloud · 🚀 DevOps<br>🛠️ Tech Stack: 🐍 Python ·🐧 Linux · ☁️ AWS · 🟦 Azure · 🐳 Docker · ☸️ Kubernetes<br>🎓 Zertifizierung: Cloud Business Expert (IHK, April 2026)
 
 
 ## 🌐 Socials:
